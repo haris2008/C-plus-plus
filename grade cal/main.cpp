@@ -17,9 +17,8 @@ int main() {
     cout << "Enter Urdu subject number: ";
     cin >> num5;
     result = num1 + num2 + num3 + num4 + num5;
-    cout <<result<<endl;
+    cout << "Your total numbaers is "<< result << endl;
     avg = (result / 500) * 100;
-    cout<<avg <<endl;
     cout << "The average is "<< avg <<endl;
 
     if(avg = 90){
