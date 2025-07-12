@@ -33,7 +33,7 @@ int main() {
     }else if (avg = 50){
     cout << "pass";
     }
-    else if (avg = 50){
+    else if (avg >= 50){
          cout << "fail";
     }
 
